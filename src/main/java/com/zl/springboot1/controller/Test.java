@@ -4,4 +4,7 @@ public class Test {
     public String test(){
         return "success";
     }
+    public String test1(){
+        return "error";
+    }
 }
